@@ -1,0 +1,20 @@
+create or link an EAS project
+
+USAGE
+  $ eas init [--id <value>] [--force] [--non-interactive]
+
+FLAGS
+  --force            Whether to create a new project/link an existing project
+                     without additional prompts or overwrite any existing
+                     project ID when running with --id flag
+  --id=<value>       ID of the EAS project to link
+  --non-interactive  Run the command in non-interactive mode.
+
+DESCRIPTION
+  create or link an EAS project
+
+ALIASES
+  $ eas init
+
+
+
